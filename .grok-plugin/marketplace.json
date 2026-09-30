@@ -382,6 +382,19 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "organify",
+      "description": "Official Organify integration (MCP server + skill). Manage workspaces, projects, tasks and sprints. Connects over HTTP and authorizes with OAuth in the browser — nothing to install, no API key to paste.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/organifystudio/organify-grok-plugin.git",
+        "sha": "56938c87d2ecde4e208fcc74fa18a3b10919ba99"
+      },
+      "homepage": "https://organify.studio",
+      "keywords": ["organify", "organify mcp", "organify projects", "organify tasks", "organify workspaces"],
+      "domains": ["organify.studio", "mcp.organify.studio", "board.organify.studio", "app.organify.studio"]
     }
   ]
 }
